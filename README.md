@@ -1,4 +1,4 @@
-# CitraBangsa
+# Citra Bangsa
 
 ## English
 This website was created to fulfill a project for Citra Bangsa PAUD School, which wanted a website to help them promote their PAUD and find more students
